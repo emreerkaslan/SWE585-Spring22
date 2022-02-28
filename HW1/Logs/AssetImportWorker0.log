@@ -195,3 +195,15 @@ Received Import Request.
   path: Packages/com.unity.ide.visualstudio
   artifactKey: Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.ide.visualstudio using Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b406a94963a4bd7878addfd58dad2169') in 0.003403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 784.530030 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(fdc518feb81314701b5914fd7ff99946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(fdc518feb81314701b5914fd7ff99946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6259d43776b7eedd4908c653333bf5a') in 1.415639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 118.662787 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d26523e515fafed36d695804be42122') in 0.018164 seconds 
