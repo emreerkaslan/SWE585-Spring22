@@ -1113,3 +1113,77 @@ Received Import Request.
   path: Assets/kim.png
   artifactKey: Guid(baf855d9b58534660bdb1e49077b87cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/kim.png using Guid(baf855d9b58534660bdb1e49077b87cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2524fb2e86817a73009ad039e1d634') in 0.027122 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.625 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2629ms)
+		BeginReloadAssembly (581ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (63ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (321ms)
+		EndReloadAssembly (1942ms)
+			LoadAssemblies (281ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (314ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (1076ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (263ms)
+				ProcessInitializeOnLoadAttributes (764ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (37ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.4 MB.
+System memory in use after: 204.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2064.
+Total: 2.294166 ms (FindLiveObjects: 0.087709 ms CreateObjectMapping: 0.030125 ms MarkObjects: 2.155375 ms  DeleteObjects: 0.020250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 300.821575 seconds.
+  path: Assets/Physics
+  artifactKey: Guid(f99f10000e2da4791bde4e3cda6eba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Physics using Guid(f99f10000e2da4791bde4e3cda6eba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '366d3f6f61da0cd19ad666a4db4b326e') in 0.025949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.665843 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(52d96b16e08e34f758aa0f22ced1880c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(52d96b16e08e34f758aa0f22ced1880c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39923d0673e143035cc7a6f7f0dd64b4') in 0.002864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.047884 seconds.
+  path: Assets/Prefabs/Cube.prefab
+  artifactKey: Guid(9d720fd12d981472d9f4e90b8aa2cd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cube.prefab using Guid(9d720fd12d981472d9f4e90b8aa2cd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384bd476790bf40e5feedb57e1b21653') in 0.730190 seconds 
