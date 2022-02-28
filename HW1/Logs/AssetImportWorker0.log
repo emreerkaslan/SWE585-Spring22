@@ -1071,3 +1071,45 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 745.023721 seconds.
+  path: Assets/png-transparent-vladimir-putin-accession-of-crimea-to-the-russian-federation-united-states-putin-s-russia-vladimir-putin.png
+  artifactKey: Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/png-transparent-vladimir-putin-accession-of-crimea-to-the-russian-federation-united-states-putin-s-russia-vladimir-putin.png using Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768d1104ba699afa8c2a8fa9e288dc1b') in 1.300437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 127.704106 seconds.
+  path: Assets/putin.png
+  artifactKey: Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/putin.png using Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a40f8e8392b054a0f7459015d400196') in 0.036742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.802706 seconds.
+  path: Assets/putin.png
+  artifactKey: Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/putin.png using Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d4bd0d4238a3bceda22bf186bf25c4') in 0.343918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.443041 seconds.
+  path: Assets/putin.png
+  artifactKey: Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/putin.png using Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0f2e8b80f1be5f9ad6d5d2519b0e3c') in 0.172159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.647802 seconds.
+  path: Assets/putin.png
+  artifactKey: Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/putin.png using Guid(fd45efc4e62c94f59a9fd4906969874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa85dd69d31201ababf9d974d94c2d61') in 0.021215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.940813 seconds.
+  path: Assets/trump.png
+  artifactKey: Guid(b02be1711b1dd4eff82af08b317b2f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/trump.png using Guid(b02be1711b1dd4eff82af08b317b2f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ba74c9e476d730aebcef9a52a89c1f') in 0.028994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.753796 seconds.
+  path: Assets/kim.png
+  artifactKey: Guid(baf855d9b58534660bdb1e49077b87cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kim.png using Guid(baf855d9b58534660bdb1e49077b87cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2524fb2e86817a73009ad039e1d634') in 0.027122 seconds 
